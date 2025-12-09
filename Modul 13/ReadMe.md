@@ -127,8 +127,7 @@ int main()
 ```
 
 > Screenshoot 
-> ![Screenshot Soal 1](https://github.com/salfiayu/Modul-3/blob/main/Modul%203/screenshoot/Screenshot%20(74).png)
-
+> ![Screenshot Soal 1](https://github.com/salfiayu/Modul-13/blob/main/Modul%2013/screenshoot/Screenshot%20(207).png)
 
 Program itu berfungsi membuat multi linked list yang menyimpan data bertingkat, di mana setiap parent bisa punya banyak child. Fungsi insertParent menambah parent baru, insertChild menambah child ke parent tertentu, dan printAll menampilkan semua parent beserta child-nya. Program ini dipakai untuk mengelola data hierarkis seperti kategori–subkategori atau fakultas–jurusan.
 
@@ -388,7 +387,7 @@ int main()
 ```
 
 > Sreenshoot 
-> ![Screenshot Soal 3](https://github.com/salfiayu/Modul-3/blob/main/Modul%203/screenshoot/Screenshot%20(84).png)
+> ![Screenshot Soal 1](https://github.com/salfiayu/Modul-13/blob/main/Modul%2013/screenshoot/Screenshot%20(206).png)
 
 Program ini membuat list melingkar (node terakhir menunjuk kembali ke node pertama), lalu menyediakan operasi dasar seperti membuat list, menambah elemen di awal/akhir/setelah node tertentu, menghapus elemen, mencari elemen berdasarkan NIM, dan menampilkan seluruh isi list. Program utama (main.cpp) hanya mengetes semua fungsi itu dengan cara membuat beberapa data mahasiswa, memasukkannya ke list sesuai urutan tertentu, lalu mencetak hasil akhirnya.
 ## Referensi
